@@ -1,5 +1,10 @@
-# Input Radio CSS
+# ZhartasLibraries
 
-Link file:
+* Input
+	* Radio
+	* CheckBox
+
+Link:
 
 	<link rel="stylesheet" href="InputRadio.css" />
+	<link rel="stylesheet" href="InputCheckBox.css" />
